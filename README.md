@@ -10,4 +10,4 @@ Projekt charakteryzuje się hybrydową architekturą, łączącą prostotę twor
 
 * **Frontend (GUI):** Napisany w języku **Python** (odpowiada za okno aplikacji, wprowadzanie danych przez użytkownika oraz wyświetlanie wyników).
 * **Backend (Rdzeń obliczeniowy):** Napisany w **C++**. (odpowiada za obliczenia i wyznaczanie pierwiastków, 3 tryby: zwykle (mpreal), przedzialowe (dane rzeczywiste) oraz przedzialowe (dane przedzialowe))
-* **funkcja.dll:** funkcja, ktora program wczytuje
+* **funkcja.cpp:** funkcja, ktora trzeba skompilowac jako plik .dll, poniewaz program wczytuje funkcje jako biblioteke .dll
